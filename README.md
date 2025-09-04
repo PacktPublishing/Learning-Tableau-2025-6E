@@ -116,7 +116,7 @@ Whether you're a seasoned data professional or new to Tableau, this book provide
 
 
 <details> 
-  <summary><h2>Get to know Authors</h2></summary>
+  <summary><h2>Get to know Author</h2></summary>
 
 _Joshua N. Milligan_ Joshua N. Milligan is a Hall of Fame Tableau Visionary (Zen Master) and 2017 Iron Viz Global finalist. His passion is training, mentoring, and helping people gain insights and make decisions based on their data through data visualization using Tableau and data cleaning and structuring using Tableau Prep. He is a principal consultant at Resultant, where he has served clients in numerous industries since 2004.
 
@@ -127,9 +127,9 @@ _Joshua N. Milligan_ Joshua N. Milligan is a Hall of Fame Tableau Visionary (Zen
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/tableau-cookbook-for-experienced-professionals--first-edition/9781835469743">Tableau Cookbook for Experienced Professionals , First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/tableau-cookbook-for-experienced-professionals-9781835469743">Tableau Cookbook for Experienced Professionals , First Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/learn-microsoft-power-bi-third-edition/9781836647416">Learn Microsoft Power BI, Third Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/learn-microsoft-power-bi-9781836647416">Learn Microsoft Power BI, Third Edition</a></li>
  
 </ul>
 
