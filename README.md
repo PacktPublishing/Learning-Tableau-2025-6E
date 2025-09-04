@@ -14,8 +14,6 @@ Joshua N. Milligan</p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://packt.link/free-ebook/9781835886786"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/gbp/9781835886786"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.amazon.com/Learning-Tableau-2025-revolutionize-storytelling/dp/B0DK55FQHG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.8px6AbNwlLfWQaAd6Qop7be19JFKmvx-E2VeBiLeMhBqMRpx9pVs8JEDjunK4oBHLU-h1vsIWgcRwePaS-FHd-OdLACeNEbEyrCQLAScOW3W7SwN_YNsFEsBwaRiVuyCWkkZ8crGJa3JYTmoZKjQ7agHZ2WavB-PYc5nrYJKGta69-Jg6mFBMt0fN6ahAtkwg6bTBdl-jfkvHo8I23-ZgsiPgaWa4W5xDuy1mdnngBc.TLBjsIu6cs5kaCUniZTJV9fj4WH3pP5SzYxqxNSLeIA&dib_tag=se&keywords=Learning+Tableau+2025&qid=1756969488&sr=8-1"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
