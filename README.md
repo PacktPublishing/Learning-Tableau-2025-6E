@@ -98,7 +98,7 @@ Whether you're a seasoned data professional or new to Tableau, this book provide
    
    **February 2024** _should be_ **February 2025**
   </ul>
-
+</details>
 <details open> 
   <summary><h2>Requirements for this book</summary>
    <p>This book does not assume specific database knowledge, but it will defi nitely help to have some basic familiarity with data itself. We’ll cover the foundational principles fi rst, and while it may be tempting to skip the fi rst chapter, please don’t! We’ll lay a foundation of terminology and explore the paradigm that will be used throughout the remainder of the book. </p>
