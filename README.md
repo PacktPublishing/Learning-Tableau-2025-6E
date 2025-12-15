@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 <h1 align="center">
 Learning Tableau 2025, Sixth Edition</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/learning-tableau-2025-9781835886786"> Learning Tableau 2025, Sixth Edition</a>, published by Packt.
