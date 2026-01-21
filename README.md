@@ -91,14 +91,22 @@ Whether you're a seasoned data professional or new to Tableau, this book provide
 
 </details>
 
-<details open> 
-  <summary><h2>Errata</summary>
+<details open>
+  <summary><strong>Errata</strong></summary>
   <ul>
-   <li>Page 103(Paragraph 1, line 3)</li>
-   
-   **February 2024** _should be_ **February 2025**
+    <li>
+      <strong> Page 103 (Paragraph 1, line 3): </strong>
+    <p> February 2024 <em>should be</em> February 2025</p>
+    </li>
+    <li>
+      <strong> Page 355 (InfoBox):  </strong>
+      <p><a href="https://catalog.data.gov/dataset/tiger-line-shapefile-2015-nation-u-s-rails-national-shapefile">https://catalog.data.gov/dataset/tiger-line-shapefile-2015-nation-u-s-rails-national-shapefile</a> </p>
+      <p><em>should be</em></p>
+      <p><a href="https://www.census.gov/cgi-bin/geo/shapefiles/index.php">https://www.census.gov/cgi-bin/geo/shapefiles/index.php</a></p>
+    </li>
   </ul>
 </details>
+
 <details open> 
   <summary><h2>Requirements for this book</summary>
    <p>This book does not assume specific database knowledge, but it will defi nitely help to have some basic familiarity with data itself. We’ll cover the foundational principles fi rst, and while it may be tempting to skip the fi rst chapter, please don’t! We’ll lay a foundation of terminology and explore the paradigm that will be used throughout the remainder of the book. </p>
